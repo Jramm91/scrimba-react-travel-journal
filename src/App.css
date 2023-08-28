@@ -3,6 +3,7 @@ nav {
   justify-content: center;
   align-items: center;
   background-color: rgba(255, 242, 125, 0.658);
+  text-align: center;
 }
 
 nav > img {
