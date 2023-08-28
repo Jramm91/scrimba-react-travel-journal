@@ -11,3 +11,51 @@ nav > img {
   margin-right: 12px;
 }
 
+.cards {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 2em 3em;
+}
+
+.cards--image {
+  height: 100%;
+  width: 20em;
+  border-radius: 0.3em;
+  object-fit: cover;
+  aspect-ratio: 16 / 9;
+  margin-right: 2em;
+}
+
+.cards--location {
+  display: flex;
+  align-items: center;
+  gap: .7em;
+  font-size: 0.75rem;
+  letter-spacing: 0.17em;
+  text-transform: uppercase;
+  margin: 0 1em 0 0.25em;
+}
+
+.cards--location-url {
+  color: #918e9b;
+  font-size: 0.75rem;
+}
+
+.cards--title {
+  font-size: 2rem;
+  margin: 0.25em 0;
+  font-weight: 700;
+}
+
+.cards--dates {
+  font-weight: 700;
+}
+
+.cards--description {
+  max-width: 50rem;
+  margin-top: 2em;
+  font-weight: 400;
+  font-size: 0.75rem;
+  line-height: 150%;
+}
