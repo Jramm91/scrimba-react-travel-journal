@@ -15,7 +15,8 @@ nav > img {
   display: flex;
   flex-direction: row;
   align-items: center;
-  margin: 2em 3em;
+  margin: 4em auto;
+  max-width: 50%;
 }
 
 .cards--image {
