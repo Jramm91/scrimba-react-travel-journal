@@ -16,7 +16,7 @@ nav > img {
   flex-direction: row;
   align-items: center;
   margin: 4em auto;
-  max-width: 50%;
+  max-width: 60%;
 }
 
 .cards--image {
@@ -36,6 +36,10 @@ nav > img {
   letter-spacing: 0.17em;
   text-transform: uppercase;
   margin: 0 1em 0 0.25em;
+}
+
+.cards--location-compass {
+  width: 32px;
 }
 
 .cards--location-url {
