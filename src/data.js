@@ -34,14 +34,14 @@ const Data = [
     },
     {
       key: 3,
-      title: "Geirangerfjord",
-      country: "Norway",
-      googleMapsUrl: "https://goo.gl/maps/5J6KAPeSgM8CHQwB7",
-      startDate: "01 Oct, 2021",
-      endDate: "18 Nov, 2021",
+      title: "Namsan Tower",
+      country: "South Korea",
+      googleMapsUrl: "https://goo.gl/maps/pn9o3MvSrFh2cuUF7",
+      startDate: "29 Jul, 2019",
+      endDate: "02 Aug, 2019",
       description:
-        "The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality.",
-      imageUrl: "https://source.unsplash.com/3PeSjpLVtLg",
+        "The N Seoul Tower, officially the YTN Seoul Tower and commonly known as Namsan Tower or Seoul Tower, is a communication and observation tower located on Nam Mountain in central Seoul, South Korea. The 236-meter-tall tower marks the second highest point in Seoul and is considered a local landmark.",
+      imageUrl: "https://images.unsplash.com/photo-1635686692794-b0ce6337386b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
     },
   ];
   
