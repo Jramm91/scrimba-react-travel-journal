@@ -11,12 +11,22 @@ nav > img {
   margin-right: 12px;
 }
 
+.cards-list {
+  padding: 1em;
+}
+
 .cards {
   display: flex;
   flex-direction: row;
   align-items: center;
-  margin: 4em auto;
+  margin: 0 auto;
+  padding: 2em 0;
   max-width: 60%;
+  border-bottom: 1px solid #918e9b;
+}
+
+.cards:last-child {
+  border-bottom: none;
 }
 
 .cards--image {
